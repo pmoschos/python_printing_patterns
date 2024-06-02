@@ -46,9 +46,9 @@ This collection focuses on practical applications of generating different patter
 
 <table>
   <tr>
-    <td>01. <a href="https://github.com/pmoschos/python_printing_patterns/tree/main/01.%20Pyramid%20Pattern" title="Creating a pyramid pattern with stars.">Pyramid Pattern 🟦</a></td>
-	<td>02. <a href="https://github.com/pmoschos/python_printing_patterns/tree/main/02.%20Inverted%20Pyramid%20Pattern" title="Creating an inverted pyramid pattern with stars.">Inverted Pyramid Pattern 🔻</a></td>
-	<td>03. <a href="https://github.com/pmoschos/python_printing_patterns/tree/main/03.%20Right%20Triangle%20Pattern" title="Creating a right triangle pattern with stars.">Right Triangle Pattern 🔺</a></td>
+    <td>01. <a href="https://github.com/pmoschos/python_printing_patterns/tree/main/01.%20Pyramid%20Pattern" title="Creating a pyramid pattern with stars.">Pyramid Pattern</a></td>
+	<td>02. <a href="https://github.com/pmoschos/python_printing_patterns/tree/main/02.%20Inverted%20Pyramid%20Pattern" title="Creating an inverted pyramid pattern with stars.">Inverted Pyramid Pattern</a></td>
+	<td>03. <a href="https://github.com/pmoschos/python_printing_patterns/tree/main/03.%20Right%20Triangle%20Pattern" title="Creating a right triangle pattern with stars.">Right Triangle Pattern</a></td>
   </tr>
   <tr>
 	<td>04. <a href="https://github.com/pmoschos/python_printing_patterns/tree/main/04.%20Inverted%20Right%20Triangle%20Pattern" title="Creating an inverted right triangle pattern with stars.">Inverted Right Triangle Pattern</a></td>
